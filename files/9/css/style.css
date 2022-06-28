@@ -1,0 +1,40 @@
+body
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1
+{
+	text-align: center;
+}
+
+h4
+{
+	margin-left: 100px;
+}
+
+p
+{
+	padding-top: 40px;
+	margin-left: 100px;
+	margin-top: -20px;
+	text-indent: 20px;
+}
+
+button
+{
+	margin-top: 30px;
+	background-color: green;
+	width: 120px;
+	height: 60px;
+	border-color: green;
+	border-radius: 10%;
+	text-align: center;
+	margin-left: 45%;
+}
+
+button a
+{
+	color: white;
+	text-decoration: none;
+}
